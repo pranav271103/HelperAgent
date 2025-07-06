@@ -112,7 +112,7 @@ The project also includes:
 
 ---
 
-## 🛠 Example Questions
+## Example Questions
 
 * `Solve for x: 4x - 8 = 12`
 * `What caused the French Revolution?`
